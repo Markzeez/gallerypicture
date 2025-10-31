@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { slides } from "./data";
+// import { slides } from "./data";
 
 interface ImagesProps{
     data: {
